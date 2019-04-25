@@ -16,6 +16,7 @@ List of changes of this fork:
 * Make year bigger
 * Remove day from header
 * Make month and year display bold
+* Add margin around month and date slider
 
 ### Updates
 

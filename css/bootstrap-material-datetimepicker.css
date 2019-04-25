@@ -4,6 +4,7 @@
 
 .dtp div.dtp-date, .dtp div.dtp-time { background: #8BC34A; text-align: center; color: #fff; padding: 10px; }
 .dtp div.dtp-date > div { padding: 0; margin: 0; }
+.dtp div.dtp-date > div:first-child { margin-bottom: 1.5em; }
 .dtp div.dtp-actual-month { font-size: 1.5em; }
 .dtp div.dtp-actual-num { font-size: 2em; line-height: 0.9; display:none; }
 .dtp div.dtp-actual-maxtime { font-size: 3em; line-height: 0.9; }
