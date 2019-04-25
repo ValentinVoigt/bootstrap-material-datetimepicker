@@ -10,6 +10,12 @@ Upstream is unsupported and can be found at https://github.com/T00rk/bootstrap-m
 List of changes of this fork:
 
 * Fix T00rk/bootstrap-material-datetimepicker#83
+* Make buttons bigger
+* Give buttons some margin
+* Make year white instead of gray
+* Make year bigger
+* Remove day from header
+* Make month and year display bold
 
 ### Updates
 
