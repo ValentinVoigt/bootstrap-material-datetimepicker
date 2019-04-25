@@ -3,6 +3,14 @@ Material DateTimePicker
 
 Originaly designed for Bootstrap Material, the V2.0 is now completely standalone and responsive.
 
+### This is a fork!
+
+Upstream is unsupported and can be found at https://github.com/T00rk/bootstrap-material-datetimepicker
+
+List of changes of this fork:
+
+* Fix T00rk/bootstrap-material-datetimepicker#83
+
 ### Updates
 
 | Date				| Author			| Description											 |
